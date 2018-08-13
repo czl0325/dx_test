@@ -4,24 +4,24 @@
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
   Sun2.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
-f:\陈昭良d3d作品\场景载入练习\sun2.cpp(170): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-f:\陈昭良d3d作品\场景载入练习\sun2.cpp(171): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-f:\陈昭良d3d作品\场景载入练习\sun2.cpp(172): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-f:\陈昭良d3d作品\场景载入练习\sun2.cpp(173): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-f:\陈昭良d3d作品\场景载入练习\sun2.cpp(252): warning C4018: “<”: 有符号/无符号不匹配
+f:\czl\dx_test\场景载入练习\sun2.cpp(170): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\czl\dx_test\场景载入练习\sun2.cpp(171): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\czl\dx_test\场景载入练习\sun2.cpp(172): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\czl\dx_test\场景载入练习\sun2.cpp(173): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\czl\dx_test\场景载入练习\sun2.cpp(252): warning C4018: “<”: 有符号/无符号不匹配
   Sun.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
-f:\陈昭良d3d作品\场景载入练习\sun.cpp(24): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
-f:\陈昭良d3d作品\场景载入练习\sun.cpp(25): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\czl\dx_test\场景载入练习\sun.cpp(24): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\czl\dx_test\场景载入练习\sun.cpp(25): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
   StaticObject.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
-f:\陈昭良d3d作品\场景载入练习\staticobject.cpp(33): warning C4018: “<”: 有符号/无符号不匹配
-f:\陈昭良d3d作品\场景载入练习\staticobject.cpp(41): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
-f:\陈昭良d3d作品\场景载入练习\staticobject.cpp(75): warning C4018: “<”: 有符号/无符号不匹配
+f:\czl\dx_test\场景载入练习\staticobject.cpp(33): warning C4018: “<”: 有符号/无符号不匹配
+f:\czl\dx_test\场景载入练习\staticobject.cpp(41): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+f:\czl\dx_test\场景载入练习\staticobject.cpp(75): warning C4018: “<”: 有符号/无符号不匹配
   StartUI.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
-f:\陈昭良d3d作品\场景载入练习\startui.cpp(30): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+f:\czl\dx_test\场景载入练习\startui.cpp(30): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
   Snow1.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
   Snow.cpp
@@ -36,7 +36,7 @@ f:\陈昭良d3d作品\场景载入练习\startui.cpp(30): warning C4244: “+=�
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
   Role.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
-f:\陈昭良d3d作品\场景载入练习\camera.h(12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+f:\czl\dx_test\场景载入练习\camera.h(12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
   Plant.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
   ParticleSystem.cpp
@@ -45,17 +45,17 @@ f:\陈昭良d3d作品\场景载入练习\camera.h(12): warning C4244: “初始�
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
   Monster.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
-f:\陈昭良d3d作品\场景载入练习\camera.h(12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+f:\czl\dx_test\场景载入练习\camera.h(12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
   Input.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
   House.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
   Grass.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
-f:\陈昭良d3d作品\场景载入练习\grass.cpp(74): warning C4305: “参数”: 从“double”到“float”截断
-f:\陈昭良d3d作品\场景载入练习\grass.cpp(269): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\czl\dx_test\场景载入练习\grass.cpp(74): warning C4305: “参数”: 从“double”到“float”截断
+f:\czl\dx_test\场景载入练习\grass.cpp(269): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
   正在生成代码...
-f:\陈昭良d3d作品\场景载入练习\role.cpp(396): warning C4715: “CRole::MeshCollisionTest”: 不是所有的控件路径都返回值
+f:\czl\dx_test\场景载入练习\role.cpp(396): warning C4715: “CRole::MeshCollisionTest”: 不是所有的控件路径都返回值
   正在编译...
   GameTime.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
@@ -65,52 +65,52 @@ f:\陈昭良d3d作品\场景载入练习\role.cpp(396): warning C4715: “CRole:
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
   D3DInit.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
-f:\陈昭良d3d作品\场景载入练习\camera.h(12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-f:\陈昭良d3d作品\场景载入练习\d3dinit.cpp(83): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
-f:\陈昭良d3d作品\场景载入练习\d3dinit.cpp(86): warning C4244: “参数”: 从“unsigned int”转换到“FLOAT”，可能丢失数据
-f:\陈昭良d3d作品\场景载入练习\d3dinit.cpp(87): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
-f:\陈昭良d3d作品\场景载入练习\d3dinit.cpp(97): warning C4018: “<”: 有符号/无符号不匹配
-f:\陈昭良d3d作品\场景载入练习\d3dinit.cpp(125): warning C4018: “<”: 有符号/无符号不匹配
-f:\陈昭良d3d作品\场景载入练习\d3dinit.cpp(147): warning C4316: “CRole”: 在堆上分配的对象可能不是对齐 16
-f:\陈昭良d3d作品\场景载入练习\d3dinit.cpp(153): warning C4316: “CMonster”: 在堆上分配的对象可能不是对齐 16
-f:\陈昭良d3d作品\场景载入练习\d3dinit.cpp(305): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-f:\陈昭良d3d作品\场景载入练习\d3dinit.cpp(306): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-f:\陈昭良d3d作品\场景载入练习\d3dinit.cpp(308): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-f:\陈昭良d3d作品\场景载入练习\d3dinit.cpp(289): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
-f:\陈昭良d3d作品\场景载入练习\d3dinit.cpp(296): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
-f:\陈昭良d3d作品\场景载入练习\d3dinit.cpp(298): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
-f:\陈昭良d3d作品\场景载入练习\d3dinit.cpp(300): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
-f:\陈昭良d3d作品\场景载入练习\d3dinit.cpp(302): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+f:\czl\dx_test\场景载入练习\camera.h(12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+f:\czl\dx_test\场景载入练习\d3dinit.cpp(83): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
+f:\czl\dx_test\场景载入练习\d3dinit.cpp(86): warning C4244: “参数”: 从“unsigned int”转换到“FLOAT”，可能丢失数据
+f:\czl\dx_test\场景载入练习\d3dinit.cpp(87): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
+f:\czl\dx_test\场景载入练习\d3dinit.cpp(97): warning C4018: “<”: 有符号/无符号不匹配
+f:\czl\dx_test\场景载入练习\d3dinit.cpp(125): warning C4018: “<”: 有符号/无符号不匹配
+f:\czl\dx_test\场景载入练习\d3dinit.cpp(147): warning C4316: “CRole”: 在堆上分配的对象可能不是对齐 16
+f:\czl\dx_test\场景载入练习\d3dinit.cpp(153): warning C4316: “CMonster”: 在堆上分配的对象可能不是对齐 16
+f:\czl\dx_test\场景载入练习\d3dinit.cpp(305): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\czl\dx_test\场景载入练习\d3dinit.cpp(306): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\czl\dx_test\场景载入练习\d3dinit.cpp(308): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\czl\dx_test\场景载入练习\d3dinit.cpp(289): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+f:\czl\dx_test\场景载入练习\d3dinit.cpp(296): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+f:\czl\dx_test\场景载入练习\d3dinit.cpp(298): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+f:\czl\dx_test\场景载入练习\d3dinit.cpp(300): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+f:\czl\dx_test\场景载入练习\d3dinit.cpp(302): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
   CreateWindows.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
-f:\陈昭良d3d作品\场景载入练习\camera.h(12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+f:\czl\dx_test\场景载入练习\camera.h(12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
   Config.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
   Collision.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
   Camera.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
-f:\陈昭良d3d作品\场景载入练习\camera.h(12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-f:\陈昭良d3d作品\场景载入练习\camera.cpp(12): warning C4316: “CRole”: 在堆上分配的对象可能不是对齐 16
+f:\czl\dx_test\场景载入练习\camera.h(12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+f:\czl\dx_test\场景载入练习\camera.cpp(12): warning C4316: “CRole”: 在堆上分配的对象可能不是对齐 16
   Butterfly.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
-f:\陈昭良d3d作品\场景载入练习\camera.h(12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+f:\czl\dx_test\场景载入练习\camera.h(12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
   BoundingVolume.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
   BaseObject.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
   AnimMesh.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
-f:\陈昭良d3d作品\场景载入练习\animmesh.cpp(162): warning C4101: “iMaterial”: 未引用的局部变量
-f:\陈昭良d3d作品\场景载入练习\animmesh.cpp(171): warning C4101: “hr”: 未引用的局部变量
+f:\czl\dx_test\场景载入练习\animmesh.cpp(162): warning C4101: “iMaterial”: 未引用的局部变量
+f:\czl\dx_test\场景载入练习\animmesh.cpp(171): warning C4101: “hr”: 未引用的局部变量
   AllocateHierarchy.cpp
   c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
-f:\陈昭良d3d作品\场景载入练习\allocatehierarchy.cpp(109): warning C4316: “D3DXFRAME_DERIVED”: 在堆上分配的对象可能不是对齐 16
+f:\czl\dx_test\场景载入练习\allocatehierarchy.cpp(109): warning C4316: “D3DXFRAME_DERIVED”: 在堆上分配的对象可能不是对齐 16
   正在生成代码...
 AllocateHierarchy.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
-  场景载入练习.vcxproj -> F:\陈昭良D3D作品\Debug\陈昭良作品.exe
+  场景载入练习.vcxproj -> F:\czl\dx_test\Debug\陈昭良作品.exe
